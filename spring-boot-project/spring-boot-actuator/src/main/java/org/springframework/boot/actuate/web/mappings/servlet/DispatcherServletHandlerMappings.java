@@ -39,6 +39,8 @@ import org.springframework.web.servlet.HandlerMapping;
  * DispatcherServlet's} handler mappings, triggering initialization of the dispatcher
  * servlet if necessary.
  *
+ * 备注一下：入口从这边开始
+ *
  * @author Andy Wilkinson
  */
 final class DispatcherServletHandlerMappings {
